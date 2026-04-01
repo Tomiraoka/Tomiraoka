@@ -4,9 +4,9 @@
 ---
 
 ### About Me
-I am a student passionate about web development and building modern web applications.  
-I work with JavaScript, React, and REST APIs, focusing on clean UI and user experience.  
-I constantly improve my skills and build real projects to gain practical experience.  
+<h3>I am a student passionate about web development and building modern web applications</h3>
+<h3>I work with JavaScript, React, and REST APIs, focusing on clean UI and user experience</h3>  
+<h3>I constantly improve my skills and build real projects to gain practical experience</h3>  
 
 ---
 
