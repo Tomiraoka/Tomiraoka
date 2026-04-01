@@ -1,40 +1,26 @@
-<h1 align="center">Hi 👋, I'm Miras Tuleshev</h1>
-<h3 align="center">Frontend Developer | React Enthusiast</h3>
+<h1 align="center">Hi, I'm Miras Tuleshev</h1>
+<h3 align="center">Frontend Developer | React</h3>
 
+---
+
+### About Me
+I am a student passionate about web development and building modern web applications.  
+I work with JavaScript, React, and REST APIs, focusing on clean UI and user experience.  
+I constantly improve my skills and build real projects to gain practical experience.  
+
+---
+
+### Tech Stack
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="56" height="56" style="margin-right: 15px; vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="56" height="56" style="margin-right: 15px; vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="56" height="56" style="margin-right: 15px; vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="56" height="56" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));">
 </p>
 
 ---
 
-### 🚀 About Me
-- 💻 I’m a student passionate about web development  
-- ⚛️ I work with **React, JavaScript, REST APIs**  
-- 🎯 Focused on **Frontend & UI/UX**  
-- 📚 Constantly learning and improving my skills  
-- 🔥 Building real projects and gaining experience  
-
----
-
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite" />
-</p>
-
----
-
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://i.pinimg.com/originals/bf/0e/82/bf0e82270dab8c8f07729f165fd082c0.gif" />
-</p>
-
----
-
-### 🌐 Connect with Me
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" /></a>
 </p>
