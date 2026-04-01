@@ -29,5 +29,5 @@ I constantly improve my skills and build real projects to gain practical experie
 
 ### GitHub Stats
 <p>
-  <img src="https://i.pinimg.com/originals/bf/0e/82/bf0e82270dab8c8f07729f165fd082c0.gif" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/bf/0e/82/bf0e82270dab8c8f07729f165fd082c0.gif)" width="100%" />
 </p>
