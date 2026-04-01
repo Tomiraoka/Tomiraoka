@@ -1,5 +1,5 @@
-<h1>Hi, I'm Miras Tuleshev</h1>
-<h3>Frontend Developer | React</h3>
+<h1>Hi, I'm Miras</h1>
+<h3>Frontend Developer focused on React, modern JavaScript, and building responsive, user-friendly web applications</h3>
 
 ---
 
@@ -27,5 +27,4 @@ I constantly improve my skills and build real projects to gain practical experie
 
 ---
 
-### GitHub Stats
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/bf/0e/82/bf0e82270dab8c8f07729f165fd082c0.gif)" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
