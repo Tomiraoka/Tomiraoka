@@ -1,10 +1,14 @@
 <h1>Hi, I'm Miras Tuleshev</h1>
 Frontend Developer focused on React, modern JavaScript, and building responsive, user-friendly web applications.
 
+---
+
 ### About Me
 I am a student passionate about web development and building modern web applications.
 I work with JavaScript, React, and REST APIs, focusing on clean UI and user experience. 
 I constantly improve my skills and build real projects to gain practical experience.
+
+---
 
 ### Tech Stack
 <p>
@@ -20,6 +24,8 @@ I constantly improve my skills and build real projects to gain practical experie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="Vite" title="Vite" width="56" height="56" style="margin-right: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" title="NPM" width="56" height="56">
 </p>
+
+---
 
 ### GitHub Stats
 
