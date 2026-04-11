@@ -20,8 +20,8 @@ I enjoy turning ideas into real-world applications, paying close attention to pe
 ---
 
 ### Tech Stack
-- HTML5  
-- CSS3  
+- HTML
+- CSS
 - JavaScript  
 - React  
 - Node.js  
