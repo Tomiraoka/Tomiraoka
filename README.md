@@ -4,9 +4,20 @@ Frontend Developer focused on React, modern JavaScript, and building responsive,
 ---
 
 ### About Me
-I am a student passionate about web development and building modern web applications.
-I work with JavaScript, React, and REST APIs, focusing on clean UI and user experience. 
-I constantly improve my skills and build real projects to gain practical experience.
+I am a motivated student with a strong interest in web development and modern technologies.  
+I specialize in building responsive and interactive user interfaces using JavaScript and React.
+
+I enjoy turning ideas into real-world applications, paying close attention to performance, usability, and clean code structure.  
+Currently, I am активно развиваюсь, изучаю новые инструменты и работаю над собственными проектами для получения практического опыта.
+
+---
+
+### What I Do
+- Build responsive web applications
+- Create clean and maintainable UI components
+- Work with REST APIs and asynchronous data
+- Optimize performance and user experience
+- Continuously learn and apply modern frontend practices
 
 ---
 
@@ -25,3 +36,18 @@ I constantly improve my skills and build real projects to gain practical experie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" title="NPM" width="56" height="56">
 </p>
 
+---
+
+### Currently Learning
+- Advanced React patterns and hooks
+- State management (Redux / Zustand)
+- Backend basics and API design
+- TypeScript for scalable applications
+
+---
+
+### Goals
+- Become a strong frontend engineer
+- Contribute to real-world projects
+- Improve problem-solving and architecture skills
+- Build full-stack applications
