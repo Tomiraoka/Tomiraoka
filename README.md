@@ -25,8 +25,3 @@ I constantly improve my skills and build real projects to gain practical experie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM" title="NPM" width="56" height="56">
 </p>
 
----
-
-### GitHub Stats
-
-<img src="https://i.pinimg.com/originals/bf/0e/82/bf0e82270dab8c8f07729f165fd082c0.gif" width="100%" />
