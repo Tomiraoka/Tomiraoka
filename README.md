@@ -1,11 +1,18 @@
-<h1>Hi, I'm Miras Tuleshev</h1>
+<p align="center">
+  <img src="[https://your-gif-link-here.gif](https://i.pinimg.com/originals/40/15/03/401503669798aad0e88e9f66ba0727a6.gif)" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Miras Tuleshev</h1>
+
+<p align="center">
 Frontend Developer focused on React, modern JavaScript, and building responsive, user-friendly web applications.
+</p>
 
 ---
 
 ### About Me
 I am a motivated student with a strong interest in web development and modern technologies.  
-I specialize in building responsive and interactive user interfaces using JavaScript and React.
+I specialize in building responsive and interactive user interfaces using JavaScript and React.  
 I enjoy turning ideas into real-world applications, paying close attention to performance, usability, and clean code structure.  
 
 ---
@@ -20,17 +27,10 @@ I enjoy turning ideas into real-world applications, paying close attention to pe
 ---
 
 ### Tech Stack
-- HTML
-- CSS
-- JavaScript  
-- React  
-- Node.js  
-- Express  
-- MongoDB  
-- Git  
-- GitHub  
-- Vite  
-- NPM  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vite,npm" />
+</p>
 
 ---
 
