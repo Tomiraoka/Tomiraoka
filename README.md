@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-gif-link-here.gif](https://i.pinimg.com/originals/40/15/03/401503669798aad0e88e9f66ba0727a6.gif)" width="100%" />
+  <img src="https://i.pinimg.com/originals/40/15/03/401503669798aad0e88e9f66ba0727a6.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Miras Tuleshev</h1>
