@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/40/15/03/401503669798aad0e88e9f66ba0727a6.gif" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Miras Tuleshev</h1>
 
 <p align="center">
@@ -47,3 +43,9 @@ I enjoy turning ideas into real-world applications, paying close attention to pe
 - Contribute to real-world projects
 - Improve problem-solving and architecture skills
 - Build full-stack applications
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/40/15/03/401503669798aad0e88e9f66ba0727a6.gif" width="100%" />
+</p>
